@@ -6,6 +6,6 @@ Seoul IoT Hackathon HW Source
 3) These codes were used in Seoul-IoT-Hackathon by Team KHU(Kyung-Hee University)
 
 
-Developer : Jinwon Han
+Developer : Jinwon Han\n
 UX/UI Designer : Suhyun Lim
 Product Designer : Joonsung Hwang
