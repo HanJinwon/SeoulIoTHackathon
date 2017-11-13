@@ -7,4 +7,4 @@ Seoul IoT Hackathon HW Source
 
 - Developer : Jinwon Han
 - UX/UI Designer : Suhyun Lim
-- Product Designer : Joonsung Hwang
+- Product Designer : Junsung Hwang
